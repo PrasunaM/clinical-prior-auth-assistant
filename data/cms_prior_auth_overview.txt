@@ -1,0 +1,40 @@
+CMS Proposes Major Reforms to Speed Up Patient Access to Drugs, Increase Transparency, and Reduce Administrative Burden
+Administration
+Share
+
+CMS Proposes Major Reforms to Speed Up Patient Access to Drugs, Increase Transparency, and Reduce Administrative Burden 
+
+Proposed rule would require faster prior authorization decisions, expand electronic prior authorization to drugs, and increase transparency across federal programs
+
+The Centers for Medicare & Medicaid Services (CMS) is proposing changes to slash long waiting periods for drugs, reducing barriers to timely access to critical treatments. The Interoperability Standards and Prior Authorization for Drugs proposed rule would advance sweeping reforms to modernize prior authorization for drugs by establishing clear decision deadlines for impacted payers – no later than 24 hours for urgent requests and 72 hours for standard requests – and increasing transparency through full disclosure of claims denials and appeals outcomes. 
+
+“Last year, we got 80 percent of the insurance industry to agree to eliminate prior authorization for common medical services such as diagnostic imaging, physical therapy, and outpatient surgery,” Health and Human Services Secretary Kennedy said. “This rule builds on that agreement by making it easier for patients to get the medications they need by minimizing delays and enabling real-time decisions.”
+
+“Patients should not have to wait days or weeks for approval to start the medication their doctor prescribed,” said CMS Administrator Dr. Mehmet Oz. “This proposal moves prior authorization into the digital age, replacing fax machines and fragmented systems with real-time electronic workflows. We are standardizing the process, increasing transparency, and ensuring providers can focus on caring for patients instead of navigating red tape.”
+
+Building on CMS’ 2024 Interoperability and Prior Authorization final rule, which addressed prior authorization for non-drug items and services, this proposal aims to ensure patients experience the same streamlined process for medications as other covered services.
+
+The rule would expand electronic prior authorization requirements to include drugs, aligning processes across Medicare Advantage, Medicaid, the Children’s Health Insurance Program (CHIP), Qualified Health Plans (QHP) issuers on the Federally-facilitated Exchanges, and Small Group Market QHPs on the Federally-facilitated Small Business Health Options Program (FF-SHOP).
+
+Impacted payers would also be required to publicly report prior authorization metrics for drugs, including: 
+
+Approval and denial rates;
+Appeal outcomes; and
+Decision timeframes.
+In addition, plans would report Application Programming Interface (API) usage metrics to CMS, allowing the agency to monitor adoption and performance of electronic systems. These measures would give patients, providers, and policymakers clearer insight into how consistently and efficiently prior authorization requests are handled. Public reporting would increase accountability and make it easier to compare how plans handle prior authorization decisions.
+
+The rule also proposes adopting Fast Healthcare Interoperability Resources (FHIR®)-based standards to replace the outdated X12N 278 transaction standard currently used by a minority of health plans. This would enable real-time electronic workflows – including streamlined submission of clinical documentation – reducing administrative burden and improving speed and accuracy.  
+
+The proposed rule would additionally: 
+
+Update health IT standards and implementation guides to align with current versions adopted by ONC for HHS use; 
+Expand existing interoperability requirements to small group market QHP issuers on the FF-SHOP; and 
+Add a regulatory definition for “Failure to Report” to strengthen CMS’ oversight authority under the Open Payments program. 
+Finally, CMS is seeking public input through five Requests for Information on: 
+
+Improving electronic event notifications for care coordination; 
+Strengthening health care cybersecurity and system resilience;
+Enhancing oversight of payer APIs; 
+Streamlining step therapy processes; and 
+Improving prior authorization for laboratory tests and durable medical equipment, prosthetics, orthotics, and supplies. 
+CMS proposes compliance dates generally beginning in 2027, ensuring patients see improvements as quickly as possible. 
