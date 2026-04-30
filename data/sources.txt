@@ -1,0 +1,14 @@
+# Prior Auth RAG Corpus - Source Documents
+# Format: filename | url | description
+# Lines starting with # are comments
+# Aetna CPB 0140 - manual download required (bot protection), place in data/ directly
+
+medi_cal_mckt_provider_training.pdf | https://www.dhcs.ca.gov/services/Medi-Cal-For-Kids-and-Teens/Documents/FINAL-DHCS-MCKTProviderTraining.pdf | Medi-Cal for Kids & Teens Provider Training - DHCS Jan 2026
+
+medi_cal_genetic_counseling.pdf | https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/6D5F956F-8D4E-4A67-BEC9-27D047EC3F68/genecoun.pdf?access_token=6UyVkRRfByXTZEWIh8j8QaYylPyP5ULO | Medi-Cal Genetic Counseling & Screening - Dec 2025
+
+medi_cal_molecular_pathology.pdf | https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/D56B6486-27C2-40E5-ACDF-E5E4AA599CA5/pathmolec.pdf?access_token=6UyVkRRfByXTZEWIh8j8QaYylPyP5ULO | Medi-Cal Molecular Pathology TAR Criteria - Oct 2025
+
+blue_shield_ca_genetic_testing_dev_delay.pdf | https://www.blueshieldca.com/content/dam/bsca/en/provider/docs/medical-policies/Genetic-Testing-Dev-Delay-Autism-Spectrum-Congenital-Anomalies.pdf | Blue Shield CA - Genetic Testing Dev Delay/ASD/Congenital Anomalies - Apr 2026
+
+# aetna_genetic_testing_cpb0140.pdf | https://www.aetna.com/cpb/medical/data/100_199/0140.html | Aetna CPB 0140 Genetic Testing - Apr 2026 - MANUAL DOWNLOAD (bot protection)
